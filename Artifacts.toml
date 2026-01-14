@@ -1,0 +1,178 @@
+[[Thermopack]]
+arch = "aarch64"
+git-tree-sha1 = "2ae834a9bcf1fcf8fa1f05a37d3a4f2b4ee187da"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Thermopack.download]]
+    sha256 = "4e86c96203bfa2b63cc5e80b562e3886c5f5347f7dfa9e626dca02046ddf9beb"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "aarch64"
+git-tree-sha1 = "62035dd2726af527572a3aec767d6982e75dd1a7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "1acf1daa12668ea3be63d246f9918f5f5844c1ab7185a28597c04662947c3ba9"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "aarch64"
+git-tree-sha1 = "f55e7865e84580c9930fefb4ecc0e2bc3e062212"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "9ea66978fb29325d8481f29b130297e66e02950f7650b19012636078a811f769"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "aarch64"
+git-tree-sha1 = "0db1ae309c311d231eb5c6460508d4ae5e566ac7"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Thermopack.download]]
+    sha256 = "104444a05bfd6975b3f741951b65e963971887ca7592915995dc25975b9fc9b3"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "790e687b6a907bb396a19409cbd41f826938c788"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "ea5e7a2ea551dddbc306d6d51c52a4b30152a5ae146c5aefd0251aa89f1ab202"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e60eea5812f2faf60ed835c57416d930cf790e17"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "90a132081307465e72e7317224a305c417691e9ffdbe3b999a531e7c12593c75"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1cb9994719d39b65a5a629fe026c0e4832f471e6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "3142ea987de6c048e1a2bcea91fded99c441ebd128720b95910a5e69edca22c1"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "145a3b5d81a83be0fc9ee8ec7093420162a422b7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "2b872fa60dad9844f684ba5cc971db0c5d64b82815fd2fa99f2311b8c0308147"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "i686"
+git-tree-sha1 = "8ae6296f6620d4895a02fe6d27d1e87692514699"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "a9040536ea9c96c542287bb11802723fbf1ae2eb53b28b0be593416e5d63c1e3"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.i686-linux-gnu-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "i686"
+git-tree-sha1 = "75193638213302cd5d8150d082162a33f33d038e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "d9cfb0152b73ac5d041ad970fde3ace176e7ecedd82fc324a75cf337dcf4d498"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.i686-linux-musl-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "i686"
+git-tree-sha1 = "50c6beb9e563d0c59bdd826532c3346de16d9612"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Thermopack.download]]
+    sha256 = "a5ca56939f8127b17496ca650decaefb579589c444c73b5278e37a62102646ae"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "powerpc64le"
+git-tree-sha1 = "72c5e049952e115b88562debdd3d9c0bacfd91c9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "6b3e2d0f4f92bc13f75b73b91ce187a39c740934a950ae9df2479c6750fa292c"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "riscv64"
+git-tree-sha1 = "0c328326a08379c1c182ad2efe0e8e293b604f1a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "6a57603f7fe0a030763f6a9117c3626cd567ebb905cad7275aa37244d3682436"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "x86_64"
+git-tree-sha1 = "0ce969b42fea42a783efb9341d763897abeffc00"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Thermopack.download]]
+    sha256 = "317bf1122736328d2b16e2bd3677fc5707f9c287b94b8917881deb83235ee0ab"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "x86_64"
+git-tree-sha1 = "67b0a66bffe94e54de695c39e2954f7e99603050"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "53d2999ec7ec8b842ee24068a203debc7cf071cce41351c614c161cac6c133fc"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "x86_64"
+git-tree-sha1 = "1649251881ba346b820a696d2aeb9bc5e0f1bb08"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Thermopack.download]]
+    sha256 = "0677de38574056ac4ef6fc57cd289a6bcb20d4a06baaf76a3758ab0f6dc95c27"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "x86_64"
+git-tree-sha1 = "f1d00713a2739f139d75da35a0d43669600b5b82"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Thermopack.download]]
+    sha256 = "449c7cdb50da06a093e6f0babb2b821e93adaa80794127101e720fbabe25ad29"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[Thermopack]]
+arch = "x86_64"
+git-tree-sha1 = "a5964ed58a00f3bfec0ea535bf5cab280006df36"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Thermopack.download]]
+    sha256 = "2eaa9f70bed8708c743a85e037088ae7507c852a6b10b7da1f51591c92123bf9"
+    url = "https://github.com/JuliaBinaryWrappers/Thermopack_jll.jl/releases/download/Thermopack-v2.2.4+0/Thermopack.v2.2.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
